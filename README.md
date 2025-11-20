@@ -13,8 +13,8 @@
     - [Week 3 — Bus Protocols (Soft Entry to HFT Workflows)](#week-3-bus-protocols-soft-entry-to-hft-workflows)
       - [Week 3 Topics](#week-3-topics)
       - [Week 3 Hands-on](#week-3-hands-on)
-  - [Week 4 — Your First Real Accelerator](#week-4-your-first-real-accelerator)
-    - [Week 4 Topics](#week-4-topics)
+    - [Week 4 — Your First Real Accelerator](#week-4-your-first-real-accelerator)
+      - [Week 4 Topics](#week-4-topics)
       - [Week 4 Hands-on Project](#week-4-hands-on-project)
   - [PHASE 2 — HFT Skills + Processor Design (Days 31–60)](#phase-2-hft-skills-processor-design-days-3160)
     - [Week 5 — Low-Latency Design Mindset](#week-5-low-latency-design-mindset)
@@ -94,9 +94,9 @@ Goal: Become solid at RTL, timing, and FPGA workflows.
 - AXI4-Stream passthrough pipeline
 - Add a register-controlled filter block
 
-## Week 4 — Your First Real Accelerator
+### Week 4 — Your First Real Accelerator
 
-### Week 4 Topics
+#### Week 4 Topics
 
 - Pipelining
 - Throughput vs Latency
